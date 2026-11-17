@@ -1,0 +1,23 @@
+{
+  "name": "express-response-cache-demo",
+  "version": "1.0.0",
+  "description": "Consumer demonstration of express-response-cache-middleware installed from npm",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/**/*.test.js"
+  },
+  "keywords": [
+    "express",
+    "express-middleware",
+    "response-cache",
+    "demo",
+    "npm-package-consumer"
+  ],
+  "author": "Arjav Jain",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.3.0",
+    "express-response-cache-middleware": "^1.0.0"
+  }
+}
