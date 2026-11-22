@@ -10,7 +10,8 @@ This repository demonstrates how an independent developer installs and integrate
 
 - **Published npm Package:** [https://www.npmjs.com/package/express-response-cache-middleware](https://www.npmjs.com/package/express-response-cache-middleware)
 - **Source Package GitHub Repository:** [https://github.com/arjavj1105/NPM-PACKAGE](https://github.com/arjavj1105/NPM-PACKAGE)
-- **Demonstration Repository:** [https://github.com/arjavj1105/express-response-cache-demo](https://github.com/arjavj1105/express-response-cache-demo)
+- **Demonstration Repository:** [https://github.com/arjavj1105/express-response-cache-demo
+- **Live Deployed Demo:** [https://express-response-cache-demo.vercel.app/](https://express-response-cache-demo.vercel.app/)](https://github.com/arjavj1105/express-response-cache-demo)
 
 ---
 
@@ -47,7 +48,8 @@ This repository demonstrates how an independent developer installs and integrate
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/arjavj1105/express-response-cache-demo.git
+   git clone https://github.com/arjavj1105/express-response-cache-demo
+- **Live Deployed Demo:** [https://express-response-cache-demo.vercel.app/](https://express-response-cache-demo.vercel.app/).git
    cd express-response-cache-demo
    ```
 
